@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="task" label="Loan Request" max_length="40" name="x_458010_loan_requ_loan_request" type="collection">
         <element label="test" max_length="40" name="test" type="string"/>
+        <element label="Test Date" max_length="40" name="test_date" type="glide_date"/>
     </element>
 </database>
